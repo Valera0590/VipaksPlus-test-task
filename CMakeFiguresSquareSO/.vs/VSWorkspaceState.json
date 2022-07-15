@@ -1,0 +1,17 @@
+{
+  "ActiveTargetSystem": "WSL: Ubuntu",
+  "MRUPresetsPerTargetSystem": {
+    "Локальный компьютер": {
+      "configure": "x64-debug"
+    },
+    "WSL: Ubuntu": {
+      "configure": "linux-debug"
+    }
+  },
+  "ExpandedNodes": [
+    "",
+    "\\CMakeFiguresSquareSO"
+  ],
+  "SelectedNode": "\\CMakeLists.txt",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,76 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "CMakeFiguresSquareSO",
+					"jsonFile" : "directory-CMakeFiguresSquareSO-Debug-6acd0368259469918cba.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "CMakeFiguresSquareSO",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "CMakeFiguresSquareSO",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "CMakeFiguresSquareSO::@05588da429940905323a",
+					"jsonFile" : "target-CMakeFiguresSquareSO-Debug-94f100d0348cd8d2e184.json",
+					"name" : "CMakeFiguresSquareSO",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/\u0412\u0430\u043b\u0435\u0440\u0438\u0439/source/repos/CMakeFiguresSquareSO/out/build/x64-debug",
+		"source" : "C:/Users/\u0412\u0430\u043b\u0435\u0440\u0438\u0439/source/repos/CMakeFiguresSquareSO"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

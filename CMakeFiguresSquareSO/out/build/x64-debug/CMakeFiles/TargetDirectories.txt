@@ -1,0 +1,5 @@
+C:/Users/Валерий/source/repos/CMakeFiguresSquareSO/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Валерий/source/repos/CMakeFiguresSquareSO/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Валерий/source/repos/CMakeFiguresSquareSO/out/build/x64-debug/CMakeFiguresSquareSO/CMakeFiles/CMakeFiguresSquareSO.dir
+C:/Users/Валерий/source/repos/CMakeFiguresSquareSO/out/build/x64-debug/CMakeFiguresSquareSO/CMakeFiles/edit_cache.dir
+C:/Users/Валерий/source/repos/CMakeFiguresSquareSO/out/build/x64-debug/CMakeFiguresSquareSO/CMakeFiles/rebuild_cache.dir

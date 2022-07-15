@@ -1,0 +1,2 @@
+C:\Users\Валерий\source\repos\FiguresSquareDLL\x64\Debug\FiguresSquareDLL.vcxproj.AssemblyReference.cache
+C:\Users\Валерий\source\repos\FiguresSquareDLL\x64\Debug\FiguresSquareDLL.dll
