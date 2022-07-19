@@ -11,3 +11,4 @@ project("FiguresSquareSharedLibrary")
 #Создание динамической библиотеки
 add_library(${PROJECT_NAME} SHARED FiguresSquareSharedLibrary/FiguresSquareSharedLibrary.cpp)
 
+

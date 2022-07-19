@@ -3,16 +3,15 @@
 
 #if defined(_WIN32) || defined(_WIN64)
 
-#define DLLTESTWITHEXPORT_API __declspec(dllexport)
+#define DLLEXPORT_API __declspec(dllexport)
 
 #else
-#define DLLTESTWITHEXPORT_API __attribute__((visibility("default")))
+#define DLLEXPORT_API __attribute__((visibility("default")))
 #endif
 
-#include <iostream>
 #include <math.h>
 
-// Этот класс прямоугольника экспортирован из библиотеки DLL
+//класс прямоугольника
 class Rectangle {
 public:
 	Rectangle(double a, double b)	//создание прямоугольника, зная длину 2-х сторон
@@ -29,18 +28,19 @@ private:
 	double side_1, side_2, square;
 };
 
-extern "C" DLLTESTWITHEXPORT_API void* CreateRectangle(double a, double b)
+/*экспорт необходимых функций для создания прямоугольника и вычисления его площади*/
+extern "C" DLLEXPORT_API void* CreateRectangle(double a, double b)
 {
 	return (void*) new Rectangle(a, b);
 }
 
-extern "C" DLLTESTWITHEXPORT_API double SquareRectangle(Rectangle * rect)
+extern "C" DLLEXPORT_API double SquareRectangle(Rectangle * rect)
 {
 	return rect->Square();
 }
 
 
-// Этот класс треугольника экспортирован из библиотеки DLL
+//класс треугольника
 class Triangle {
 public:
 	Triangle(double a, double h)    //создание треугольника, зная ширину основания и высоту
@@ -71,17 +71,18 @@ private:
 	double side_1, side_2, side_3, base, height, semiperimeter, square;
 };
 
-extern "C" DLLTESTWITHEXPORT_API void* CreateTriangle(double a, double h)
+/*экспорт необходимых функций для создания треугольника и вычисления его площади*/
+extern "C" DLLEXPORT_API void* CreateTriangle(double a, double h)
 {
 	return (void*) new Triangle(a, h);
 }
 
-extern "C" DLLTESTWITHEXPORT_API void* CreateTriangleHeron(double a, double b, double c)
+extern "C" DLLEXPORT_API void* CreateTriangleHeron(double a, double b, double c)
 {
 	return (void*) new Triangle(a, b, c);
 }
 
-extern "C" DLLTESTWITHEXPORT_API double SquareTriangle(Triangle * tr)
+extern "C" DLLEXPORT_API double SquareTriangle(Triangle * tr)
 {
 	return tr->Square();
 }

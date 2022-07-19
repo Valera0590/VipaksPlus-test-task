@@ -1,5 +1,5 @@
 # ninja log v5
-0	14	0	clean	8c45b54705a541e8
-0	653	6798962211485603	CMakeFiles/FiguresSquareSharedLibrary.dir/FiguresSquareSharedLibrary/FiguresSquareSharedLibrary.cpp.obj	df964b34d92a6d25
-655	1167	6798962216455612	FiguresSquareSharedLibrary.dll	ce74a163d83c1c21
-655	1167	6798962216455612	FiguresSquareSharedLibrary.lib	ce74a163d83c1c21
+0	15	0	clean	8c45b54705a541e8
+0	457	6799492333750466	CMakeFiles/FiguresSquareSharedLibrary.dir/FiguresSquareSharedLibrary/FiguresSquareSharedLibrary.cpp.obj	df964b34d92a6d25
+459	1052	6799492339500352	FiguresSquareSharedLibrary.dll	ce74a163d83c1c21
+459	1052	6799492339500352	FiguresSquareSharedLibrary.lib	ce74a163d83c1c21

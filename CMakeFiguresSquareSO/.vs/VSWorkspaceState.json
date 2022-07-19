@@ -1,5 +1,5 @@
 {
-  "ActiveTargetSystem": "Локальный компьютер",
+  "ActiveTargetSystem": "WSL: Ubuntu",
   "MRUPresetsPerTargetSystem": {
     "Локальный компьютер": {
       "configure": "x64-debug"
@@ -12,5 +12,6 @@
     "",
     "\\FiguresSquareSharedLibrary"
   ],
+  "SelectedNode": "\\FiguresSquareSharedLibrary\\FiguresSquareSharedLibrary.cpp",
   "PreviewInSolutionExplorer": false
 }
