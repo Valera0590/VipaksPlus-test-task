@@ -1,0 +1,3 @@
+C:/Users/Валерий/source/repos/CMakeFiguresSquareSO/out/build/x86-debug/CMakeFiles/FiguresSquareSharedLibrary.dir
+C:/Users/Валерий/source/repos/CMakeFiguresSquareSO/out/build/x86-debug/CMakeFiles/edit_cache.dir
+C:/Users/Валерий/source/repos/CMakeFiguresSquareSO/out/build/x86-debug/CMakeFiles/rebuild_cache.dir

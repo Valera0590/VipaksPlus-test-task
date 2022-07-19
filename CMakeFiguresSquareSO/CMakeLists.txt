@@ -3,9 +3,11 @@
 #
 cmake_minimum_required (VERSION 3.8)
 
-project ("CMakeFiguresSquareSO")
+#project ("CMakeFiguresSquareSO")
+project("FiguresSquareSharedLibrary")
 
-set (CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++1y -Wall")
+#set (CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++1y -Wall")
 
 #Создание динамической библиотеки
-add_library(${PROJECT_NAME} SHARED CMakeFiguresSquareSO/CMakeFiguresSquareSO.cpp)
+add_library(${PROJECT_NAME} SHARED FiguresSquareSharedLibrary/FiguresSquareSharedLibrary.cpp)
+

@@ -1,0 +1,10 @@
+C:\Users\Валерий\source\repos\FiguresSquareApp\FiguresSquareApp\obj\x64\Debug\netstandard2.0\FiguresSquareApp.csproj.AssemblyReference.cache
+C:\Users\Валерий\source\repos\FiguresSquareApp\FiguresSquareApp\obj\x64\Debug\netstandard2.0\FiguresSquareApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Валерий\source\repos\FiguresSquareApp\FiguresSquareApp\obj\x64\Debug\netstandard2.0\FiguresSquareApp.AssemblyInfoInputs.cache
+C:\Users\Валерий\source\repos\FiguresSquareApp\FiguresSquareApp\obj\x64\Debug\netstandard2.0\FiguresSquareApp.AssemblyInfo.cs
+C:\Users\Валерий\source\repos\FiguresSquareApp\FiguresSquareApp\obj\x64\Debug\netstandard2.0\FiguresSquareApp.csproj.CoreCompileInputs.cache
+C:\Users\Валерий\source\repos\FiguresSquareApp\FiguresSquareApp\bin\x64\Debug\netstandard2.0\FiguresSquareApp.deps.json
+C:\Users\Валерий\source\repos\FiguresSquareApp\FiguresSquareApp\bin\x64\Debug\netstandard2.0\FiguresSquareApp.dll
+C:\Users\Валерий\source\repos\FiguresSquareApp\FiguresSquareApp\bin\x64\Debug\netstandard2.0\FiguresSquareApp.pdb
+C:\Users\Валерий\source\repos\FiguresSquareApp\FiguresSquareApp\obj\x64\Debug\netstandard2.0\FiguresSquareApp.dll
+C:\Users\Валерий\source\repos\FiguresSquareApp\FiguresSquareApp\obj\x64\Debug\netstandard2.0\FiguresSquareApp.pdb
